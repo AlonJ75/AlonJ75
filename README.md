@@ -7,6 +7,8 @@
 * [SoccerStars (Android Java)](https://github.com/TheLuciferX/SoccerStars)
 * [BombBall (Android Java)](https://github.com/TheLuciferX/BombBall)
 
+-------------
+
 <p align="center">
   <a href="#" target="_blank"><img alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
   <a href="#" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
