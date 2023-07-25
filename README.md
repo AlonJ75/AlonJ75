@@ -10,7 +10,7 @@
   By the end of 2012 I have released my first bot to the public, named "Command Bot", available on MediaFire which received almost 1,000 downloads.
   <img src="https://i.imgur.com/MHrWs5L.png">
 
-  <img style="align: right" src="https://i.imgur.com/V5eF52Z.png">
+  
 </p>
 
 <p align="justify"></p>
