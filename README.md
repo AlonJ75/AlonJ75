@@ -1,7 +1,7 @@
 # LuciferX
 ## About Me:
 
-## Projects:
+## 💻 Projects:
 * [EE-JS (Web - NodeJS)](https://github.com/TheLuciferX/EE-JS)
 * [Colour Game (Web - JavaScript)](https://github.com/TheLuciferX/Web-Colour-Game)
 * [SoccerStars (Android - Java)](https://github.com/TheLuciferX/SoccerStars)
