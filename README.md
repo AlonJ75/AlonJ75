@@ -1,4 +1,4 @@
-# LuciferX
+<h1 align="center">LuciferX</h1>
 
 ## 🪪 About Me:
 
