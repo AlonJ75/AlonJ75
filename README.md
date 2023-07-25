@@ -40,6 +40,9 @@
   <a href="#" target="_blank"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a>
 </p>
 
+-------------------
+![](https://komarev.com/ghpvc/?username=TheLuciferX&label=Profile+Views&style=plastic&color=brightgreen)
+
 <!--
 **TheLuciferX/TheLuciferX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
