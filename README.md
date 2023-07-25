@@ -4,14 +4,14 @@
 
 <p align="justify">My name is Alon, I am 20.8 years old, and have 10 years of programming experience.</p>
 
-<p align="justify">I started coding in 2012, for an online flash game called Everybody Edits (Discontinued). I started off by programming bots (Bots are client-sided applications that connect to the server, and allows me to modify the game in a way that benefits me). The bots were coded in C# using .net framework, and PlayerIO library (The Everybody Edits server was running on PlayerIO).</p>
+<p align="justify">I started coding in 2012, for an online flash game called Everybody Edits (Discontinued). I started off by teaching myself C# while programming bots (Bots are client-sided applications that connect to the server, and allows me to modify certain parts of the game behaviour in a way that benefits me). The bots were coded in C# using .net framework, and PlayerIO library (The Everybody Edits server was running on PlayerIO).</p>
 
 <p>
   <img width="400px" align="right" src="https://i.imgur.com/V5eF52Z.png">
   By the end of 2012 I have released my first bot to the public, named "Command Bot", available on MediaFire which received almost 1,000 downloads.
   <br />
   <br />
-  <p align="center"><img width="300px" src="https://i.imgur.com/MHrWs5L.png"></p>
+  <img width="300px" src="https://i.imgur.com/MHrWs5L.png">
   <br clear="right" />
 </p>
 
