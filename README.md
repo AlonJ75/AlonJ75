@@ -1,5 +1,5 @@
-<p align="center">
-  # LuciferX
+<p align="center" style="font-size: 7px">
+  LuciferX
 </p>
 
 ## 🪪 About Me:
