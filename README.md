@@ -1,4 +1,6 @@
-# LuciferX
+<p align="center">
+  # LuciferX
+</p>
 ## 🪪 About Me:
 
 ## 💻 Projects:
