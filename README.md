@@ -1,5 +1,5 @@
 # LuciferX
-## About Me:
+## 🪪 About Me:
 
 ## 💻 Projects:
 * [EE-JS (Web - NodeJS)](https://github.com/TheLuciferX/EE-JS)
