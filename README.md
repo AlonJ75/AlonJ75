@@ -35,8 +35,10 @@
   <a href="#" target="_blank"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
   <a href="#" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 </p>
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheLuciferX&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+<p align="center">
+  <a href="#" target="_blank"><img alt="TopLangs" src="(https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheLuciferX&layout=compact&theme=github_dark"></a>
+</p>
 
 <!--
 **TheLuciferX/TheLuciferX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
