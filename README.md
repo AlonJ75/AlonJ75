@@ -8,7 +8,7 @@
 
 <div>
   <div>
-
+    <img src="https://i.imgur.com/V5eF52Z.png">
   </div>
   <div>
     <p align="justify">By the end of 2012 I have released my first bot to the public, named "Command Bot", available on MediaFire which received almost 1,000 downloads.</p>
