@@ -15,7 +15,7 @@
   <br clear="right" />
 </p>
 
-<p align="justify">Af</p>
+<p align="justify">Later on I started learning by myself Java. Due to the similarity to C#, it was pretty easy for me to learn. The reason of learning Java was to create mods for the game Minecraft, in addition to server plugins. Within my time of programming for Minecraft projects, I learnt how to use all sort of different APIs, including Forge API, Bukkit API, Spigot API, Paper API and BungeeCord API.</p>
 
 <p align="justify">In the mid-end of 2020 it was announced that browsers will stop supporing Flash. Therefore Everybody Edits would also come to an end, as it's a game that was running on Flash. Before the end of the game, the owner of the game, at the time, Xenonetix, has asked me to join his developer team, to create an offline version of Everybody Edits, so people would be able to download and play. Another developer (Seb135) and I have joined forces to create the offline version of Everybody Edits, and was later <a href="https://github.com/Seb-135/ee-offline">open-sourced on github</a>.</p>
 
