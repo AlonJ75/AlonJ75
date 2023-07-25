@@ -2,10 +2,10 @@
 ## About Me:
 
 ## Projects:
-* [EE-JS (Web JS)](https://github.com/TheLuciferX/EE-JS)
-* [Colour Game (Web JS)](https://github.com/TheLuciferX/Web-Colour-Game)
-* [SoccerStars (Android Java)](https://github.com/TheLuciferX/SoccerStars)
-* [BombBall (Android Java)](https://github.com/TheLuciferX/BombBall)
+* [EE-JS (Web - NodeJS)](https://github.com/TheLuciferX/EE-JS)
+* [Colour Game (Web - JavaScript)](https://github.com/TheLuciferX/Web-Colour-Game)
+* [SoccerStars (Android - Java)](https://github.com/TheLuciferX/SoccerStars)
+* [BombBall (Android - Java)](https://github.com/TheLuciferX/BombBall)
 
 -------------
 
