@@ -4,7 +4,7 @@
 
 <p align="justify">My name is Alon, I am 20.8 years old, and have 10 years of programming experience.</p>
 
-<p align="justify"></p>
+<p align="justify">I started coding in 2012, for an online flash game called Everybody Edits. I started off by making bots (Bots are client-sided applications that connect to the server, and allows me to modify the game in a way that benefits me)</p>
 
 <p align="justify"></p>
 
