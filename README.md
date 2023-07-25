@@ -2,6 +2,14 @@
 
 ## 🪪 About Me:
 
+<p align="justify">My name is Alon, I am 20.8 years old, and have 10 years of programming experience.</p>
+
+<p align="justify"></p>
+
+<p align="justify"></p>
+
+<p align="justify"></p>
+
 ## 💻 Projects:
 * [EE-JS (Web - NodeJS)](https://github.com/TheLuciferX/EE-JS)
 * [Colour Game (Web - JavaScript)](https://github.com/TheLuciferX/Web-Colour-Game)
