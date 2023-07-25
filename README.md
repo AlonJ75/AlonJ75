@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 7px">
+<p align="center" style="font-size: 24px">
   LuciferX
 </p>
 
