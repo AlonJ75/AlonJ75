@@ -1,6 +1,4 @@
-<p align="center" style="font-size: 24px">
-  LuciferX
-</p>
+# LuciferX
 
 ## 🪪 About Me:
 
