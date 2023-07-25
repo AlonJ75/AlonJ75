@@ -40,6 +40,8 @@
   <a href="#" target="_blank"><img alt="TopLangs" src="(https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheLuciferX&layout=compact&theme=github_dark"></a>
 </p>
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheLuciferX&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **TheLuciferX/TheLuciferX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
