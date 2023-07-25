@@ -2,10 +2,10 @@
 ## About Me:
 
 ## Projects:
-[EE-JS (Web JS)](https://github.com/TheLuciferX/EE-JS)
-[Colour Game (Web JS)](https://github.com/TheLuciferX/Web-Colour-Game)
-[SoccerStars (Android Java)](https://github.com/TheLuciferX/SoccerStars)
-[BombBall (Android Java)](https://github.com/TheLuciferX/BombBall)
+* [EE-JS (Web JS)](https://github.com/TheLuciferX/EE-JS)
+* [Colour Game (Web JS)](https://github.com/TheLuciferX/Web-Colour-Game)
+* [SoccerStars (Android Java)](https://github.com/TheLuciferX/SoccerStars)
+* [BombBall (Android Java)](https://github.com/TheLuciferX/BombBall)
 
 <p align="center">
   <a href="#" target="_blank"><img alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
