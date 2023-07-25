@@ -6,7 +6,8 @@
 
 <p align="justify">I started coding in 2012, for an online flash game called Everybody Edits (Discontinued). I started off by programming bots (Bots are client-sided applications that connect to the server, and allows me to modify the game in a way that benefits me). The bots were coded in C# using .net framework, and PlayerIO library (The Everybody Edits server was running on PlayerIO).</p>
 
-<p align="justify"></p>
+<p align="justify">By the end of 2012 I have released my first bot to the public, named "Command Bot", available on MediaFire which received almost 1,000 downloads.</p>
+<img src="https://i.imgur.com/MHrWs5L.png">
 
 <p align="justify"></p>
 
