@@ -26,6 +26,7 @@
 ## 💻 Projects:
 * [EE Offline (Flash - ActionScript 3)](https://github.com/Seb-135/ee-offline)
 * [EE-JS (Web - NodeJS)](https://github.com/TheLuciferX/EE-JS)
+* [GamestoreWeb (Web - Java)](https://github.com/TheLuciferX/GamestoreWeb)
 * [Colour Game (Web - JavaScript)](https://github.com/TheLuciferX/Web-Colour-Game)
 * [SoccerStars (Android - Java)](https://github.com/TheLuciferX/SoccerStars)
 * [BombBall (Android - Java)](https://github.com/TheLuciferX/BombBall)
