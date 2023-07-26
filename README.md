@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  
+  <a href="#" target="_blank"><img alt="TopLangs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheLuciferX&layout=compact&theme=github_dark"></a>
 </p>
 
 <p align="center">
