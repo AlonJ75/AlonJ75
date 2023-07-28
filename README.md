@@ -1,4 +1,4 @@
-<h1 align="center">LuciferX</h1>
+<h1 align="center">Alon</h1>
 
 ## 🪪 About Me:
 
