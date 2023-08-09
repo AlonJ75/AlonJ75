@@ -4,7 +4,7 @@
 
 <p align="justify">My name is Alon, I am 20 years old, and have 10 years of programming experience.</p>
 
-<p align="justify">I started coding in 2012, for an online flash game called Everybody Edits (Discontinued). I started off by teaching myself C# while programming bots (Bots are client-sided applications that connect to the server, and allows me to modify certain parts of the game behaviour in a way that benefits me). The bots were coded in C# using .net framework, and PlayerIO library (The Everybody Edits server was running on PlayerIO).</p>
+<p align="justify">In 2012, I started coding while playing an online game called "Everybody Edits" (which is no longer available). I taught myself C# to make bots, which are like helper programs that tweak how the game works for my benefit. These bots were made using C# and the .NET framework, along with a library called PlayerIO (since the game ran on PlayerIO). This experience not only improved my coding skills but also gave me insights into how online games and servers function.</p>
 
 <p>
   <img width="400px" align="right" src="https://i.imgur.com/V5eF52Z.png">
