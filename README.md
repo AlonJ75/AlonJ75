@@ -8,7 +8,7 @@
 
 <p>
   <img width="400px" align="right" src="https://i.imgur.com/V5eF52Z.png">
-  By the end of 2012 I have released my first bot to the public, named "Command Bot", available on MediaFire which received almost 1,000 downloads.
+  Towards the end of 2012, I introduced my first bot to the public. I named it "Command Bot" and made it available on MediaFire. Surprisingly, it garnered nearly 1,000 downloads.
   <br />
   <br />
   <img width="300px" src="https://i.imgur.com/MHrWs5L.png">
