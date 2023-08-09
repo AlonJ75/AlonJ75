@@ -23,7 +23,9 @@ In the second course, I ventured into fullstack web development, comprehending b
 
 <p align="justify">Moreover, I extended my learning to coding for the Android operating system using Java. Building upon my existing knowledge of the Java language, delving into Android app development proved to be a relatively smooth process. As part of a school project, I designed an Android game inspired by Miniclip's SoccerStars. My efforts bore fruit as my project was recognized as the top-performing Android endeavor among those submitted.</p>
 
-<p align="justify">In the mid-end of 2020 it was announced that browsers will stop supporing Flash. Therefore Everybody Edits would also come to an end, as it's a game that was running on Flash. Before the end of the game, the owner of the game, at the time, Xenonetix, has asked me to join his developer team, to create an offline version of Everybody Edits, so people would be able to download and play. Another developer (Seb135) and I have joined forces to create the offline version of Everybody Edits, and was later <a href="https://github.com/Seb-135/ee-offline">open-sourced on github</a>.</p>
+<p align="justify">Around mid-2020, a significant shift occurred in the online landscape when browsers announced the discontinuation of Flash support. Consequently, the future of Everybody Edits, a game reliant on Flash technology, was also cast into uncertainty. 
+<br>
+As the impending closure loomed, Xenonetix, the game's owner at the time, extended an invitation to me to join his development team. The objective was to engineer an offline rendition of Everybody Edits that users could readily download and play. Collaborating with another developer, Seb135, we pooled our expertise to bring this vision to life. The culmination of our efforts materialized into an offline version of Everybody Edits, a project that we later made accessible to the public on GitHub, fostering an <a href="https://github.com/Seb-135/ee-offline">open-source ethos.</a>.</p>
 
 ## 💻 Projects:
 * [EE Offline (Flash - ActionScript 3)](https://github.com/Seb-135/ee-offline)
