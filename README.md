@@ -15,7 +15,7 @@
   <br clear="right" />
 </p>
 
-<p align="justify">Later on I started learning by myself Java. Due to the similarity to C#, it was pretty easy for me to learn. The reason of learning Java was to create mods for the game Minecraft, in addition to server plugins. Within my time of programming for Minecraft projects, I learnt how to use all sort of different APIs.</p>
+<p align="justify">Later on, I took it upon myself to learn Java. Since it shares similarities with C#, I found the learning process quite smooth. I dived into Java with the intention of crafting mods for the game Minecraft, along with developing server plugins. Throughout my journey of programming for Minecraft projects, I gained proficiency in working with a variety of different APIs.</p>
 
 <p align="justify">Meanwhile I have bought 2 courses on Udemy, the 1st course being a MySQL course teaching me everything about SQL databases, the difference between SQL to No-SQL, how the database works, and all the different commands I need to know to use and maintain such a database. The 2nd course was a fullstack web development course. The course tought me about the front end and the back end of a web application, and how they work together. The course covered subjects such as NodeJS as the backend server, MongoDB as a No-SQL database, ExpressJS, and much more. Made me become capable of creating my own fullstack website.</p>
 
