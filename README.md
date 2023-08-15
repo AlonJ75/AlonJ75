@@ -25,7 +25,7 @@ In the second course, I ventured into fullstack web development, comprehending b
 
 <p align="justify">Around mid-2020, a significant shift occurred in the online landscape when browsers announced the discontinuation of Flash support. Consequently, the future of Everybody Edits, a game reliant on Flash technology, was also cast into uncertainty. 
 <br>
-As the impending closure loomed, Xenonetix, the game's owner at the time, extended an invitation to me to join his development team. The objective was to engineer an offline rendition of Everybody Edits that users could readily download and play. Collaborating with another developer, Seb135, we pooled our expertise to bring this vision to life. The culmination of our efforts materialized into an offline version of Everybody Edits, a project that we later made accessible to the public on GitHub, fostering an <a href="https://github.com/Seb-135/ee-offline">open-source ethos.</a>.</p>
+As the impending closure loomed, Xenonetix, the game's owner at the time, extended an invitation to me to join his development team. Our goal was to create a version of Everybody Edits that people could download and play even without an internet connection. Working together with another developer named Seb135, we combined our skills to make this idea a reality. Our hard work paid off, resulting in an offline version of Everybody Edits. We later shared this project with the public on GitHub, embracing an <a href="https://github.com/Seb-135/ee-offline">open-source</a> approach.</p>
 
 ## 💻 Projects:
 * [EE Offline (Flash - ActionScript 3)](https://github.com/Seb-135/ee-offline)
