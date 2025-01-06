@@ -29,11 +29,11 @@ As the impending closure loomed, Xenonetix, the game's owner at the time, extend
 
 ## 💻 Projects:
 * [EE Offline (Flash - ActionScript 3)](https://github.com/Seb-135/ee-offline)
-* [EE-JS (Web - NodeJS)](https://github.com/TheLuciferX/EE-JS)
-* [GamestoreWeb (Web - Java)](https://github.com/TheLuciferX/GamestoreWeb)
-* [Colour Game (Web - JavaScript)](https://github.com/TheLuciferX/Web-Colour-Game)
-* [SoccerStars (Android - Java)](https://github.com/TheLuciferX/SoccerStars)
-* [BombBall (Android - Java)](https://github.com/TheLuciferX/BombBall)
+* [EE-JS (Web - NodeJS)](https://github.com/AlonJ75/EE-JS)
+* [GamestoreWeb (Web - Java)](https://github.com/AlonJ75/GamestoreWeb)
+* [Colour Game (Web - JavaScript)](https://github.com/AlonJ75/Web-Colour-Game)
+* [SoccerStars (Android - Java)](https://github.com/AlonJ75/SoccerStars)
+* [BombBall (Android - Java)](https://github.com/AlonJ75/BombBall)
 
 -------------
 
@@ -62,7 +62,7 @@ As the impending closure loomed, Xenonetix, the game's owner at the time, extend
 </p>
 
 <p align="center">
-  <a href="#" target="_blank"><img alt="TopLangs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheLuciferX&layout=donut&theme=github_dark"></a>
+  <a href="#" target="_blank"><img alt="TopLangs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlonJ75&layout=donut&theme=github_dark"></a>
 </p>
 
 <p align="center">
